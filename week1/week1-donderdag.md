@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `14/01/2026`  
+**Datum:** `15/01/2026`  
 **Studentnaam:** `Damian Arszagi vel Harszagi`  
 **Groepsnaam:** `DRADO`
 
@@ -8,11 +8,9 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- Research afgewerkt
-- Prototype
-- Design proces
-- Cardsorting
-- Wireframe voor profiel begonnen (bijna af)
+- Wireframe profiel af
+- Design profiel af en feedback ervoor verbeterd
+- Product owner: Scope and user stories af
 
   **Activiteiten:**
 
@@ -31,4 +29,4 @@ niet echt iets
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Weeral tevreden/neutraal met hoeveel ik kon doen
+neutraal over mijn werk, wel blij voor design gedeelte
