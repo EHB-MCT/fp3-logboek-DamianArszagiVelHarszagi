@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `19/01/2026`  
+**Datum:** `20/01/2026`  
 **Studentnaam:** `Damian Arszagi vel Harszagi`  
 **Groepsnaam:** `DRADO`
 
@@ -8,14 +8,13 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- info page bijna klaar gedaan
+carousel in info klaar gemaakt en bijna klaar met het hele gedeelte
 
-  **Activiteiten:**
-  **Activiteiten:**
+**Activiteiten:**
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-nog niks
+glide library voor de carousel
 
 > **Nieuwe skills:**
 >
@@ -26,4 +25,4 @@ nog niks
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-niet super blij over wat ik heb kunnen doen
+wel blij over de carousel, moet wel na school verder doen
